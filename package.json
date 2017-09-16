@@ -1,0 +1,20 @@
+{
+  "name": "ionic-plugin-igaworks",
+  "version": "0.0.1",
+  "description": "IGAWorks plugin for ionic",
+  "main": "src/index.js",
+  "types": "src/index.d.ts",
+  "keywords": [
+    "ionic",
+    "cordova",
+    "igaworks"
+  ],
+  "repository": "https://github.com/leo6104/ionic-plugin-igaworks.git",
+  "author": "허상민 <it_informer@naver.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@angular/core": "^4.4.1",
+    "@ionic-native/core": "^4.2.1",
+    "rxjs": "^5.4.3"
+  }
+}
